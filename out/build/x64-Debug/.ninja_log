@@ -1,0 +1,18 @@
+# ninja log v5
+780	941	601081575	timespan.exe	4c785110816897ce
+0	779	601081575	CMakeFiles/timespan.dir/main.cpp.obj	f7f6df716fb962b1
+4	778	601081575	CMakeFiles/timespan.dir/timespan.cpp.obj	18eb64af7bb468fd
+0	477	601081671	CMakeFiles/timespan.dir/main.cpp.obj	f7f6df716fb962b1
+478	631	601081672	timespan.exe	4c785110816897ce
+0	493	601082178	CMakeFiles/timespan.dir/main.cpp.obj	f7f6df716fb962b1
+493	641	601082178	timespan.exe	4c785110816897ce
+0	507	601082327	CMakeFiles/timespan.dir/main.cpp.obj	f7f6df716fb962b1
+507	659	601082327	timespan.exe	4c785110816897ce
+4	723	601083365	CMakeFiles/timespan.dir/timespan.cpp.obj	18eb64af7bb468fd
+0	726	601083365	CMakeFiles/timespan.dir/main.cpp.obj	f7f6df716fb962b1
+726	894	601083366	timespan.exe	4c785110816897ce
+1	394	601083488	CMakeFiles/timespan.dir/main.cpp.obj	f7f6df716fb962b1
+394	562	601083488	timespan.exe	4c785110816897ce
+1	762	601090422	CMakeFiles/timespan.dir/main.cpp.obj	f7f6df716fb962b1
+5	767	601090422	CMakeFiles/timespan.dir/timespan.cpp.obj	18eb64af7bb468fd
+767	970	601090423	timespan.exe	4c785110816897ce
